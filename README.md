@@ -1,4 +1,4 @@
-Examples of `Spliterator` from my talk at JavaOne 2015 and Devoxx 2015. You can find de slides on my Slideshare account: [http://www.slideshare.net/jpaumard](http://www.slideshare.net/jpaumard).
+Examples of `Spliterator` from my talk at JavaOne 2015 and Devoxx 2015. You can find the slides on my Slideshare account: [http://www.slideshare.net/jpaumard](http://www.slideshare.net/jpaumard).
 
 There are four spliterators shown here:
 - the `GroupingSpliterator`, that reads a stream and regroup its elements with a grouping factor.
